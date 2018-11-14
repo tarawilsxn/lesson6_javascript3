@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 14, 2018
 
 ### Student Name:  
-(First and Last Name)
+Tara Wilson
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I used the DOM to create a photo gallery. I utilized getElementById() to select specific nodes. This HTML document is dynamic and can move through photos and change from 3 to 5 photos visible at once.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned the importance of functions and how code can be specific to certain functions, such as local variables.
+2. I learned even more how to utilize the getElementById() method.
+3. Another thing I learned is how helpful it is to use loops. They are very efficient.
